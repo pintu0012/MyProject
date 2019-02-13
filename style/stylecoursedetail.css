@@ -1,0 +1,133 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+body
+{
+	margin:0px;
+	padding:0px;
+}
+#coursecontent
+{
+	width:100%;
+	height:100%;
+	padding-left:8%;
+	padding-right:5%;
+	padding-top:20px;
+}
+#fblock
+{
+	width:85%;
+	height:auto;
+	display:block;
+	background-color:#E8E5C3;
+}
+#fblock img
+{
+	padding:2% 0% 2% 2%;
+	float:left;
+	width:100px;
+	height:100px;
+}
+#fblock h1
+{
+	float:left;
+	padding-left:20px;
+	padding-top:20px;
+}
+#fblock p
+{
+	font-size:18px;
+}
+#call
+{
+	width:85%;
+	height:60px;
+	display:block;
+	float:left;
+	background-color:white;
+	margin-top:20px;
+	line-height:60px;
+	font-size:20px;
+	box-shadow:1px 1px 1px 1px #03F;
+}
+#call img
+{
+	width:10%;
+	height:80%;
+	padding:5px;
+	float:left;
+}
+#call p
+{
+	float:right;
+	line-height:60px;
+	font-size:20px;
+	padding-right:5px;
+}
+#cname
+{
+	width:100%;
+	height:3%;
+	display:block;
+	text-align:left center;
+	background-color:#F93;
+}
+#info
+{
+	width:50%;
+	height:auto;
+	display:block;
+	float:left;
+	background-color:white;
+	margin-top:9%;
+	margin-bottom:10px;
+	box-shadow:1px 1px 1px 1px grey;
+}
+#info h1
+{
+	font-size:20px;
+	color:black;
+	margin-left:2%;
+	margin-top:1%;
+}
+#info li
+{
+	list-style:circle;
+	margin-left:2%;
+	margin-top:1%;
+	color:grey;
+}
+#linksc
+{
+	width:100%;
+	height:auto;
+	display:block;
+	float:right;
+	background-color:orange;
+	margin-top:9%;
+	margin-left:9%;
+	padding:0px;
+	box-shadow:1px 1px 1px 1px grey;
+
+}
+.linkc
+{
+	width:100%;
+	height:auto;
+	display:block;
+	background-color:#FFF;
+}
+.linkc a
+{
+	list-style:none;
+	text-decoration:none;
+	padding-left:0px;
+}
+.linkc h1
+{
+	padding-top:8px;
+	padding-left:0px;
+	font-size:18px;
+}

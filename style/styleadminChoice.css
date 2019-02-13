@@ -1,0 +1,67 @@
+/*  Admin side menu setting */
+#adminSideMenu
+{
+	width:200px;
+	
+	background-color:#666;
+    float:left;
+}
+#adminSideMenu ul
+{
+	
+	margin:0px;
+	padding:0px;
+	list-style:none;
+    background-color:#011C39;
+  min-height:430px;
+}
+#adminSideMenu ul li
+{
+	height:30px;
+	text-align:center;
+	line-height:30px;
+	
+	
+	color:white;
+	
+}
+#adminSideMenu ul li a
+{
+	text-decoration:none;
+	color:white;
+	display:block;
+	line-height:30px;
+}
+#adminSideMenu ul li a:hover
+{
+	color:white;
+	display:block;
+	line-height:30px;
+	background-color:#3FF;
+	color:black;
+}
+
+
+
+#rightContent
+{
+	width:758px;
+	background-color:#CCC;
+	min-height:530px;
+	float:left;
+}
+input[type="submit"],input[type="reset"],input[type="button"]
+{
+	width:100px;
+	height:40px;
+	background-color:#428AC9;
+	color:white;
+}
+input[type="text"]
+{
+	height:30px;
+	padding:3px;
+	font-size:20px;
+	border-radius:3px;
+	border:1px solid red;
+}

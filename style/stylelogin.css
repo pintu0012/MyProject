@@ -1,0 +1,149 @@
+*
+{
+margin:0;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+padding:0;	
+}
+
+#main
+{
+width:100%;
+
+margin-left:auto;
+margin-right:auto;
+background-color:#ECF0F1;
+height:100%;
+	
+}
+
+#loginMenu
+{
+	background-color:white;
+	width:100%;
+	height:70px;
+	position:fixed;
+	padding:0px;
+}
+#logo
+{
+	width:125px;
+	height:100%;
+	padding-left:95px;
+	float:left;
+	
+}
+#logo img
+{
+	height:85%;
+	width:125px;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+}
+#rightmenu 
+{
+	float:right;
+	margin-right:95px;
+	font-weight:bold;
+}
+#rightmenu a
+{
+	
+	margin-left:40px;
+	line-height:70px;
+	text-decoration:none;
+	
+	
+}
+#rightmenu a:hover
+{
+	color:#F00;
+}
+
+#loginform
+{
+	height:260px;
+	width:750px;
+	background-color:#062D54;
+	margin-right:20%;
+	margin-left:20%;
+	float:left;
+	
+	
+}
+#leftform
+{
+	height:260px;
+	width:300px;
+	float:left;
+}
+#rightform
+{
+	height:260px;
+	width:450px;
+	background-color:white;
+	float:left;
+	
+}
+#rightform form
+{
+	margin-right:40px;
+	margin-left:40px;
+	margin-top:50px;
+}
+
+input[type=text]
+{
+	display:inline-block;
+	border:1px solid #ccc;
+	border-radius:4px;
+	width:100%;
+	box-sizing:border-box;
+	margin:8px 0;
+	padding:8px 10px;
+}
+input[type=password]
+{
+	width:100%;
+	display:inline-block;
+	border:1px solid #ccc;
+	border-radius:4px;
+	box-sizing:border-box;
+	margin:8px 0;
+	padding:8px 10px;
+}
+input[type=submit]
+{
+	background-color:#4CAF50;
+	color:white;
+	padding:8px 20px;
+	border-radius:4px;
+	float:right;
+	
+}
+h1
+{
+	text-align:center;
+	margin-top:50px;
+	color:white;
+	font-weight:400;
+}
+h2
+{
+	text-align:center;
+	margin-top:50px;
+	color:white;
+	font-weight:200;
+}
+#footer
+{
+	width:100%;
+	height:70px;
+	background-color:white;
+	
+}
+#footer h5
+{
+	padding:20px 20px;
+}
